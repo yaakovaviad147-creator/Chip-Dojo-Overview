@@ -137,7 +137,9 @@ The platform currently ships with **300+ curated puzzles** across six categories
 ## 📄 About this repo
 
 This repo intentionally contains only this overview.
-The production codebase is private to protect proprietary puzzle content, AI grading prompts, and billing logic.
+The full production codebase (300+ commits) is private to protect proprietary puzzle content, AI grading prompts, and billing logic.
+
+> 💡 **Note for recruiters:** The low public commit count on my GitHub profile reflects private development activity. All active work on Chip Dojo lives in a private repository. I'm happy to provide a live walkthrough, share specific modules, or discuss any part of the implementation in detail.
 
 If you're a recruiter or hiring engineer and would like a code walkthrough or live demo, please reach out via the contact links above.
 
